@@ -1,0 +1,25 @@
+{
+  "name": "uni-temp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jiaiqi/uni-temp.git"
+  },
+  "keywords": [
+    "'uniapp项目模板'"
+  ],
+  "author": "jaiqi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiaiqi/uni-temp/issues"
+  },
+  "homepage": "https://github.com/jiaiqi/uni-temp#readme",
+  "dependencies": {
+    "@vue/composition-api": "^1.0.0-beta.22"
+  }
+}
